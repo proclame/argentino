@@ -1,0 +1,249 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:ror="http://rorweb.com/0.1/" >
+<channel>
+  <title>ROR Sitemap for http://www.argentino.be/</title>
+  <link>http://www.argentino.be/</link>
+  <item>
+    <title>ROR Sitemap for http://www.argentino.be/</title>
+    <link>http://www.argentino.be/</link>
+    <ror:about>sitemap</ror:about>
+    <ror:type>SiteMap</ror:type>
+  </item>
+
+<item>
+     <link>http://www.argentino.be/</link>
+     <ror:updatePeriod>monthly</ror:updatePeriod>
+     <ror:sortOrder>0</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.argentino.be/index_2.html</link>
+     <ror:updatePeriod>monthly</ror:updatePeriod>
+     <ror:sortOrder>0</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.argentino.be/frame.html</link>
+     <ror:updatePeriod>monthly</ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.argentino.be/index_3.html</link>
+     <ror:updatePeriod>monthly</ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.argentino.be/site.html</link>
+     <ror:updatePeriod>monthly</ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.argentino.be/menu_boven.html</link>
+     <ror:updatePeriod>monthly</ror:updatePeriod>
+     <ror:sortOrder>3</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.argentino.be/menu_balk.html</link>
+     <ror:updatePeriod>monthly</ror:updatePeriod>
+     <ror:sortOrder>3</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.argentino.be/home.html</link>
+     <ror:updatePeriod>monthly</ror:updatePeriod>
+     <ror:sortOrder>3</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.argentino.be/menu_onder.html</link>
+     <ror:updatePeriod>monthly</ror:updatePeriod>
+     <ror:sortOrder>3</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.argentino.be/menukaart.html</link>
+     <ror:updatePeriod>monthly</ror:updatePeriod>
+     <ror:sortOrder>4</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.argentino.be/info.html</link>
+     <ror:updatePeriod>monthly</ror:updatePeriod>
+     <ror:sortOrder>4</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.argentino.be/route.html</link>
+     <ror:updatePeriod>monthly</ror:updatePeriod>
+     <ror:sortOrder>4</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.argentino.be/disclaimer.html</link>
+     <ror:updatePeriod>monthly</ror:updatePeriod>
+     <ror:sortOrder>4</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.argentino.be/home_an.html</link>
+     <ror:updatePeriod>monthly</ror:updatePeriod>
+     <ror:sortOrder>4</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.argentino.be/home_tekst.html</link>
+     <ror:updatePeriod>monthly</ror:updatePeriod>
+     <ror:sortOrder>4</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.argentino.be/submenu_balk.html</link>
+     <ror:updatePeriod>monthly</ror:updatePeriod>
+     <ror:sortOrder>5</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.argentino.be/menukaart_an.html</link>
+     <ror:updatePeriod>monthly</ror:updatePeriod>
+     <ror:sortOrder>5</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.argentino.be/menukaart_tekst.html</link>
+     <ror:updatePeriod>monthly</ror:updatePeriod>
+     <ror:sortOrder>5</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.argentino.be/info_an.html</link>
+     <ror:updatePeriod>monthly</ror:updatePeriod>
+     <ror:sortOrder>5</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.argentino.be/info_tekst.html</link>
+     <ror:updatePeriod>monthly</ror:updatePeriod>
+     <ror:sortOrder>5</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.argentino.be/route_an.html</link>
+     <ror:updatePeriod>monthly</ror:updatePeriod>
+     <ror:sortOrder>5</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.argentino.be/route_tekst.html</link>
+     <ror:updatePeriod>monthly</ror:updatePeriod>
+     <ror:sortOrder>5</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.argentino.be/disclaimer_an.html</link>
+     <ror:updatePeriod>monthly</ror:updatePeriod>
+     <ror:sortOrder>5</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.argentino.be/disclaimer_tekst.html</link>
+     <ror:updatePeriod>monthly</ror:updatePeriod>
+     <ror:sortOrder>5</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.argentino.be/alacarte.html</link>
+     <ror:updatePeriod>monthly</ror:updatePeriod>
+     <ror:sortOrder>6</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.argentino.be/delicatessen.html</link>
+     <ror:updatePeriod>monthly</ror:updatePeriod>
+     <ror:sortOrder>6</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.argentino.be/weekmenu.html</link>
+     <ror:updatePeriod>monthly</ror:updatePeriod>
+     <ror:sortOrder>6</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.argentino.be/wijnkaart.html</link>
+     <ror:updatePeriod>monthly</ror:updatePeriod>
+     <ror:sortOrder>6</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.argentino.be/drankenkaart.html</link>
+     <ror:updatePeriod>monthly</ror:updatePeriod>
+     <ror:sortOrder>6</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.argentino.be/alacarte_an.html</link>
+     <ror:updatePeriod>monthly</ror:updatePeriod>
+     <ror:sortOrder>7</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.argentino.be/alacarte_tekst.html</link>
+     <ror:updatePeriod>monthly</ror:updatePeriod>
+     <ror:sortOrder>7</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.argentino.be/delicatessen_an.html</link>
+     <ror:updatePeriod>monthly</ror:updatePeriod>
+     <ror:sortOrder>7</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.argentino.be/werelddelicatessen_tekst.html</link>
+     <ror:updatePeriod>monthly</ror:updatePeriod>
+     <ror:sortOrder>7</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.argentino.be/week_an.html</link>
+     <ror:updatePeriod>monthly</ror:updatePeriod>
+     <ror:sortOrder>7</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.argentino.be/weekmenu_tekst.html</link>
+     <ror:updatePeriod>monthly</ror:updatePeriod>
+     <ror:sortOrder>7</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.argentino.be/wijnkaart_an.html</link>
+     <ror:updatePeriod>monthly</ror:updatePeriod>
+     <ror:sortOrder>7</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.argentino.be/wijnkaart_tekst.html</link>
+     <ror:updatePeriod>monthly</ror:updatePeriod>
+     <ror:sortOrder>7</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.argentino.be/drankenkaart_an.html</link>
+     <ror:updatePeriod>monthly</ror:updatePeriod>
+     <ror:sortOrder>7</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.argentino.be/dranken_tekst.html</link>
+     <ror:updatePeriod>monthly</ror:updatePeriod>
+     <ror:sortOrder>7</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+</channel>
+</rss>
+  

@@ -1,0 +1,8 @@
+#Access file
+order allow,deny
+allow from all
+require group site173
+Authname WebStats
+Authtype Basic
+AuthAuthoritative off
+AuthPAM_Enabled on
